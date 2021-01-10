@@ -17,4 +17,5 @@ yarn install
 yarn start
 
 
+Frontend will be on localhost:3000
 
