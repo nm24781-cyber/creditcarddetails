@@ -26,4 +26,5 @@ yarn start
 ![Invalid](./SampleImages/InvalidDetails.png)
 
 
+Frontend will be on localhost:3000
 
