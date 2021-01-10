@@ -16,6 +16,9 @@ yarn install
 
 yarn start
 
+### Frontend will be on localhost:3000
+
+
 ## UI 
 ![UI](./SampleImages/UI.png)
 
@@ -25,6 +28,4 @@ yarn start
 ## Invalid Details
 ![Invalid](./SampleImages/InvalidDetails.png)
 
-
-Frontend will be on localhost:3000
 
