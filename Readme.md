@@ -16,5 +16,14 @@ yarn install
 
 yarn start
 
+## UI 
+![UI](./SampleImages/UI.png)
+
+## Successful Submit
+![Successful](./SampleImages/Successful.png)
+
+## Invalid Details
+![Invalid](./SampleImages/InvalidDetails.png)
+
 
 
